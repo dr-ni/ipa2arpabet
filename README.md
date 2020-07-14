@@ -10,8 +10,8 @@ sudo make install
 Uninstall:
 sudo make uninstall
 
-Usage:
-ipa2arpabet-de filename
+
+    Usage: ipa2arpabet-de filename
 
 Example:
 
