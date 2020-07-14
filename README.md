@@ -2,16 +2,20 @@
 Straightforward translator from International Phonetic Alphabet (IPA) to CMU ARPAbet. Currently only German language support.
 
 Build:
-make
+
+    make
 
 Install:
-sudo make install
+
+    sudo make install
 
 Uninstall:
-sudo make uninstall
 
+    sudo make uninstall
 
-    Usage: ipa2arpabet-de filename
+Usage:
+
+    ipa2arpabet-de filename
 
 Example:
 
